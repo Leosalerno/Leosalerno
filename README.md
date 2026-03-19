@@ -14,18 +14,12 @@
 
 ## 🛠️ Tecnologias
 
-* Java
+* Java (principal)
+* Python (básico)
 * Git & GitHub
-
----
-
-## 📌 Projetos em destaque
-
-* 📦 Sistema de gerenciamento de funcionários
-* 🛒 Sistema de estoque (em desenvolvimento)
 
 ---
 
 ## 📫 Contato
 
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
+* Email: [leonardosalerno1909@gmail.com](mailto:seuemail@email.com)
