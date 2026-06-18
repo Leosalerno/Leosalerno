@@ -15,6 +15,7 @@
 ## 🛠️ Tecnologias
 
 * Java (principal)
+* Banco de dados e SQL
 * Python (básico)
 * Git & GitHub
 
